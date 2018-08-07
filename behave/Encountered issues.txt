@@ -1,0 +1,2 @@
+POSTMAN:
+- The response for the invalid credentials was 200 instead of 401
